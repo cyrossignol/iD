@@ -1,9 +1,10 @@
 {
-  "name": "iD",
+  "name": "@hotosm/id",
   "version": "2.26.2",
   "description": "A friendly editor for OpenStreetMap",
-  "main": "dist/iD.min.js",
-  "repository": "github:openstreetmap/iD",
+  "main": "index.js",
+  "private": false,
+  "repository": "github:hotosm/iD",
   "homepage": "https://github.com/openstreetmap/iD",
   "bugs": "https://github.com/openstreetmap/iD/issues",
   "keywords": [

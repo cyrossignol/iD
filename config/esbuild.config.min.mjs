@@ -10,6 +10,6 @@ esbuild
     entryPoints: ['./modules/id.js'],
     legalComments: 'none',
     logLevel: 'info',
-    outfile: 'dist/iD.min.js'
+    outfile: 'dist/index.js'
   })
   .catch(() => process.exit(1));
